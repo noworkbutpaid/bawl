@@ -2486,7 +2486,8 @@ body {
     width: 193.806px;
     height: 72.1041px;
     top: 9.5001px;
-    left: -56px;
+/*    left: -56px;*/
+    left: 13px;
   }
   #IMAGE2128 > .ladi-image > .ladi-image-background {
     width: 193.806px;
@@ -2893,8 +2894,8 @@ body {
   #GROUP2168 {
 /*    width: 245.5px;*/
 /*    height: 44px;*/
-    top: 500.452px;
-    left: 89px;
+/*    top: 500.452px;*/
+/*    left: 89px;*/
   }
   #HEADLINE2172 {
     width: 765px;
@@ -3896,7 +3897,8 @@ height: 948.175px;
 
 #SECTION2148 #GROUP2168 {
   position: absolute;
-  bottom: -20px;
+  top: 530.452px;
+  left: 89px;
 }
 
 @media (max-width: 767px) {
@@ -3904,8 +3906,17 @@ height: 948.175px;
     height: 880.375px;
   }
 
+  #SECTION2170 {
+    height: 500px;
+    padding-top: 180px;
+  }
+
   #SECTION2148 #GROUP2168 {
-      bottom: 50px;
+    top: 749px;
+    left: 34px;
+/*    border: solid;*/
+    width: 80vw;
+    height: auto;
   }
   #PARAGRAPH2167 > .ladi-paragraph {
       color: rgb(255, 255, 255);
