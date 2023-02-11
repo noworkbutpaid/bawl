@@ -2736,7 +2736,7 @@ body {
     height: 404px;
     top: 0px;
     left: 0px;
-    background-image: url("images/tokenomics.png");
+    background-image: url("images/pie-chart1.png");
   }
   #HEADLINE2159 {
     width: 485px;
@@ -3318,6 +3318,7 @@ body {
     height: 47.4623px;
     top: 6.67925px;
     left: 14.097px;
+    display: none;
   }
   #IMAGE2128 > .ladi-image > .ladi-image-background {
     width: 127.572px;
@@ -3566,7 +3567,7 @@ height: 948.175px;
     height: 330px;
     top: 0px;
     left: 0px;
-    background-image: url("images/tokenomics.png");
+    background-image: url("images/pie-chart1.png");
   }
   #HEADLINE2159 {
     width: 345px;
